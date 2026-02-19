@@ -17,6 +17,10 @@ brew tap itsdanielfelix/tap
 
 - [Commusoft CLI](https://github.com/itsdanielfelix/commusoft-cli) ([source](./Formula/commusoft.rb))
 
+## Available Casks
+
+- [One](https://one.danielfelix.in) ([source](./Casks/one.rb))
+
 
 ## Updates
 
