@@ -13,10 +13,6 @@ Via Homebrew
 brew tap itsdanielfelix/tap
 ```
 
-## Available Formulae
-
-- [Commusoft CLI](https://github.com/itsdanielfelix/commusoft-cli) ([source](./Formula/commusoft.rb))
-
 ## Available Casks
 
 - [One](https://one.danielfelix.in) ([source](./Casks/one.rb))
